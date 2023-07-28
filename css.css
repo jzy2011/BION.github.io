@@ -1,0 +1,28 @@
+p{
+    background:green;
+}
+p.jzy{
+    color:red;
+    font-style:underline;
+}
+p.jzc{
+    color:green;
+    font-style:italic;
+}
+p.tlq{
+    color:blue;
+    font-style:italic;
+}
+p.yxj{
+    color:yellow;
+    font-style:italic;
+}
+h3.h3sb1{
+    font-weight:lighter;
+    font-style:line_through;
+}
+h3.h3sb2{
+    font-weight:lighter;
+    font-style:line_through;
+}
+
